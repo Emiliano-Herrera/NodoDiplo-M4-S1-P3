@@ -17,8 +17,8 @@ Crea una Landing Page que incluya:
 - Comparte tu repositorio de código en GitHub u otra plataforma similar.
   
 ### Recursos Proporcionados
-Ejemplo de Landing Page en React: https://classy-peony-f296dc.netlify.app/
-Plantilla en HTML: https://github.com/EsteNoEsMonti/nodo-landing-page-html
+- Ejemplo de Landing Page en React: https://classy-peony-f296dc.netlify.app/
+- Plantilla en HTML: https://github.com/EsteNoEsMonti/nodo-landing-page-html
 
 ### Criterios de Evaluación
 - Correcta implementación de cada uno de los elementos solicitados.
